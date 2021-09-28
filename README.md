@@ -1,2 +1,0 @@
-Start Development
-npm start
