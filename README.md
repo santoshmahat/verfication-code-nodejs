@@ -1,2 +1,2 @@
-Start Development
-npm start
+Start Development environment
+    npm start:dev
